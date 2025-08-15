@@ -1,4 +1,4 @@
-### Media-Downloader
+# Media-Downloader
 ## YT Video and Audio Downloader
-# Python based
-# yt-dlp ussed
+1. Python based
+2. yt-dlp ussed
