@@ -8,9 +8,9 @@
 Please install Python, FFmpeg and yt-dlp
 
 ### Features
-Simple YT video and audio downloader script
-Playlist Support
-Video Quality High, Medium and Low
+1. Simple YT video and audio downloader script
+2. Playlist Support
+3. Video Quality High, Medium and Low
 
 ### License
 MIT License © 2025 Rixty
