@@ -1,5 +1,7 @@
 # Media-Downloader
 ## YT Video and Audio Downloader
-1. Python based https://www.python.org/
-2. FFmpeg ussed https://ffmpeg.org/
-3. yt-dlp ussed https://github.com/yt-dlp/yt-dlp
+1. Built in Python: https://www.python.org/
+2. Uses FFmpeg: https://ffmpeg.org/
+3. Uses yt-dlp: https://github.com/yt-dlp/yt-dlp
+
+By Rixty
